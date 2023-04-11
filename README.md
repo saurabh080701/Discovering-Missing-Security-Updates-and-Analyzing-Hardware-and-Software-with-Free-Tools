@@ -18,7 +18,7 @@ For security compliance and for desktop/server hardening, we recommend the Micro
 - [Microsoft Security Guidance blog](/archive/blogs/secguide/)
 
 
-## LIST ALL FREE SYSTEM INFORMATION ABOUT THE HARDWARE AND SOFTWARE INSTALLED
+# LIST ALL FREE SYSTEM INFORMATION ABOUT THE HARDWARE AND SOFTWARE INSTALLED
 There are several ways to get a list of free system information about the hardware and software installed on your computer, including:
 
   1) Built-in System Information: On Windows, you can use the built-in System Information tool to view system information. To open it, press the Windows key + R to open the Run dialog box, type "msinfo32" and press Enter. This will open the System Information window, where you can view detailed information about your hardware and software.
